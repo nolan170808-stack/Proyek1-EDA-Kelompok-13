@@ -17,3 +17,16 @@ License : https://opendatacommons.org/licenses/dbcl/1-0/
  dan 
 ; ketika kadar partikel halus meningkat, kadar partikel kasar juga hampir dipastikan ikut meningkat secara bersamaan
 - Fluktuasi Kategori Kualitas Udara: Kategori "Tidak Sehat" cenderung lebih sering muncul pada bulan-bulan tertentu, yang bertepatan dengan musim kemarau dan peningkatan aktivitas lalu lintas harian.
+  
+KETERANGAN VARIABEL :
+Date: 4/1/2021 (Tanggal pencatatan)   
+Time: 00:00:00 (Waktu pencatatan)   
+PM2.5: 45 (Konsentrasi partikel halus)   
+PM10: 19 (Konsentrasi partikel kasar)   
+SO2: 21 (Konsentrasi Sulfur Dioksida)   
+CO: 15 (Konsentrasi Karbon Monoksida)   
+O3: 8 (Konsentrasi Ozon)   
+NO2: 3 (Konsentrasi Nitrogen Dioksida)   
+Max: 21 (Nilai tertinggi dari indeks pencemar standar)   
+Critical Component: PM2.5 (Polutan utama yang menjadi pemicu indeks tertinggi)   
+Category: Good (Status/kategori kualitas udara harian)   
